@@ -59,15 +59,15 @@ section.normal {
     color: black;
 }
 section.imagem > p {
-    background-color: rgb(51, 51, 51);
+    background-color: rgba(94, 90, 90, 0.356);
     display: inline-block;
     padding: 5px;
     text-shadow: 1px 1px 0px;
 }
 section.imagem {
-    background-color: rgba(22, 21, 21, 0.767);
-    color: white;
-    box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.795);
+    background-color: rgba(22, 21, 21, 0.527);
+    color:white
+    box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.37);
     background-attachment: fixed;
 }
 section#img01 {
